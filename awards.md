@@ -6,7 +6,7 @@ title: Awards
 
 ## Awards & Honors
 
-- Dec 2023: Outstanding Nominee in Lianlong Scholarship in Tianjin University(**the only one in the college**)<br>One of the highest undergraduate awards at FZU
+- Dec 2023: Outstanding Nominee in Lianlong Scholarship in Tianjin University(**the only one in the college**)<br>One of the highest undergraduate awards at TJU
 - Dec 2023: Merit Student of Tianjin University(**Honorary Title**)
 - May 2023: Successful participant in American College Mathematical Modeling Competition
 - Dec 2022: Merit Student of Tianjin University(**TOP 5%**)
