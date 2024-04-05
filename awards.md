@@ -4,21 +4,16 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+## Awards & Honors
 
-## Scholarships
-
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 12 undergraduates are selected around the world
-- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2024：First Prize Scholarship of FZU ($2100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Dec 2023: Outstanding Nominee in Lianlong Scholarship in Tianjin University(**the only one in the college**)<br>One of the highest undergraduate awards at FZU
+- Dec 2023: Merit Student of Tianjin University(**Honorary Title**)
+- May 2023: Successful participant in American College Mathematical Modeling Competition
+- Dec 2022: Merit Student of Tianjin University(**TOP 5%**)
+- Aug 2022: Second Prize in Siemens Cup China Intelligent Manufacturing Challenge of North China
+- May 2022: Second Prize in National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of Tianjin University
+- Mar 2024: Taihu Innovation and Entrepreneurship Scholarship in Future Technology College of Tianjin University
+- Mar 2024: Taihu Star in Future Technology College of Tianjin University
 
 ## Competitions (Selected)
 
