@@ -4,23 +4,24 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Awards & Honors
+## 荣誉证书
 
-- Dec 2023: Outstanding Nominee in Lianlong Scholarship in Tianjin University(**the only one in the college**)<br>One of the highest undergraduate awards at TJU
-- Dec 2023: Merit Student of Tianjin University(**Honorary Title**)
-- May 2023: Successful participant in American College Mathematical Modeling Competition
-- Dec 2022: Merit Student of Tianjin University(**TOP 5%**)
-- Aug 2022: Second Prize in Siemens Cup China Intelligent Manufacturing Challenge of North China
-- May 2022: Second Prize in National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction of Tianjin University
-- Mar 2024: Taihu Innovation and Entrepreneurship Scholarship in Future Technology College of Tianjin University
-- Mar 2024: Taihu Star in Future Technology College of Tianjin University
+- 2023年12月：天津大学利安隆励学金（**学院唯一**）
+- 2023年12月：天津大学三好学生奖学金（**荣誉称号**）
+- 2023年05月：美国大学生数学建模竞赛S奖 
+- 2022年12月：天津大学三好学生二等奖学金（**TOP 5%**）
+- 2022年08月：第十六届“西门子杯”中国智能制造挑战赛华北赛区二等奖
+- 2022年05月：天津大学“潍柴杯”第十四届节能减排大赛二等奖
+- 2024年03月：天津大学未来技术太湖创新创业榜样
+- 2024年03月：天津大学未来技术太湖之星
 
-## Services
+## 学生工作
 
-- Head of News Department of TWT Community, Tianjin University
-- Publicity Director, Association of Science-Technology Innovation and Entrepreneurship, Tianjin University
-- Scholarship Review Assistant, College of Future Technology in Tianjin University
+- 天津大学天外天学生社团新闻部部长
+- 天津大学未来技术学院科技创新与创业协会部长
+- 天津大学未来技术学院奖助学金评审助理
+- 天津大学未来技术学院团委办公室助理
 
-## Voluntary
+## 志愿服务
 
-- Outstanding Volunteer of Tianjin University with a total volunteer time of 130h.
+- 天津大学“一星志愿者”——累计志愿时长130h。
