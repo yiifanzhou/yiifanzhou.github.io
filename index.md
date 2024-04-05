@@ -2,50 +2,22 @@
 layout: page
 ---
 
-# About Me
+## 个人介绍
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+我是**周艺梵**——天津大学未来技术学院的一名大三本科生，专业是**计算机科学与技术**。本科期间，我跟随天津大学智能与计算学部[佟鑫宇](https://cic.tju.edu.cn/faculty/tongxinyu/index.html)教授与[张蕾](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)教授进行科研学习工作，倍感荣幸！这是我的[个人简历](https://yuntianshi.github.io/file/Resume-YuntianShi.pdf).
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+我目前预计可以获得研究生推免资格，希望获得一个**国内顶尖大学的硕士/博士席位**，希望得到老师的考虑，十分感谢！
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+## 最新动态
 
-## Academic Background
-
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2024 - Sep 2025：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-
----
-
-## Research Interests
-
-- Internet of Everything (IoE)
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf)🔗
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
----
-
-## News and Updates
-
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- **May 2023：**在[张蕾](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)教授指导下，领导并进行大学生创新创业计划省部级项目[**基于商用Wi-Fi的连续手语语句识别系统**]。
+- **Feb 2023：**在[李坤](http://cic.tju.edu.cn/faculty/likun/index.html)教授与清华大学[刘烨斌](https://www.au.tsinghua.edu.cn/info/1166/3336.htm)教授指导下，与实验室硕士生一起开展[**基于音频的演讲者表情与躯干动作生成算法**]相关工作。
+- **May 2022：**在[王攀峰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1810)教授指导下，领导并完成项目[仿生扑翼飞行机器人](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft)。
+- **May 2022：**在[吕伟杰](http://seea.tju.edu.cn/info/1126/2117.htm)老师指导下，领导并完成项目[智能越障抓取履带机器人](https://github.com/YuntianShi/Intelligent-Handling-Crawler-Robot)。
+- **May 2022：**在[李坤](http://cic.tju.edu.cn/faculty/likun/index.html)教授指导下，领导并完成大学生创新创业计划省部级项目[**面向元宇宙应用的多人交互场景重建与生成**]。
+- **Dec 2021：**被评为[**天津大学三好学生**]。
+- **Jun 2021：**在[陈曦](http://faculty.tju.edu.cn/050054/zh_CN/index.htm)老师指导下，领导并完成项目[基于麦克纳姆轮的全方位移动小车](https://github.com/YuntianShi/Omnidirectional-Moving-Robot)。
+- **Jun 2021：**在[康荣杰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1852)教授指导下，领导并完成项目[智能循迹投放物流车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)。
 
