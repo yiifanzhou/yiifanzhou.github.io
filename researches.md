@@ -1,43 +1,60 @@
 ---
 layout: page
 permalink: /researches/index.html
-title: Publications
+title: Researches
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+# 项目经历
 
-## Conference Paper
+P.S.,点击项目标题即可访问对应仓库。<br>
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Tozammel Hossain, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024. Full paper will be submitted to KDD 2024.
+#### [智能循迹投放物流车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+<center>
+<img src="/images/design.jpg">
+</center>
+<br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+#### [基于麦克纳姆轮的全方位移动小车](https://github.com/YuntianShi/Omnidirectional-Moving-Robot)
+
+<center>
+<img src="/images/3Ddesign.jpg">
+</center>
+<br>
+
+#### [智能越障抓取履带机器人](https://github.com/YuntianShi/Intelligent-Handling-Crawler-Robot)
+
+<center>
+<img src="/images/real.jpg">
+</center>
 
 <br>
 
-## Journal Paper
+#### [仿生扑翼飞行机器人](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft)
 
-- Coming soon!
+<center>
+<img src="/images/3D1.jpg">
+</center>
+<br>
 
-  <br>
-
----
-
-## Working Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
+<br>
 
 ---
 
-## Undergrad Thesis
+# 课程共享
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+<br>
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
+#### [TJU-03313-数据结构](https://github.com/YuntianShi/Course-Sharing-DS)
 
-  <br>
+#### [TJU-03314-计算机系统基础](https://github.com/YuntianShi/Course-Sharing-Computer_System_Basis)
+
+#### [TJU-03891-数据库原理](https://github.com/YuntianShi/Course-Sharing-Database)
+
+#### [TJU-01400-算法设计与分析](https://github.com/YuntianShi/Course-Sharing-Algorithm)
+
+#### [TJU-02289-操作系统原理](https://github.com/YuntianShi/Course-Sharing-OS)
+
+#### [TJU-01879-计算机网络](https://github.com/YuntianShi/Course-Sharing-Network)
+
+
