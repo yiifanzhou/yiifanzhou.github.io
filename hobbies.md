@@ -9,8 +9,8 @@ title: Hobbies
 #### 志愿活动
 
 <div class="second">
-<img src="/images/zy1.png">
-<img src="/images/zy2.png">
+<img src="/images/zy1.jpg">
+<img src="/images/zy2.jpg">
 </div>
 <br>热心志愿服务，累计志愿时长超100小时，担任多项活动主持人；在2022级和2023级新生开学典礼上布置现场、迎接新生；担任天津大学首届“王正廷”杯篮球运动会记者志愿者；连续两年担任团委办公室志愿助理，并于今年担任学院勤工助学助理；同时提升自我，成功入选并作为“互联网+”国家级志愿者的一员。
 
@@ -18,7 +18,7 @@ title: Hobbies
 #### 记者
 
 <div class="third">
-<img src="/images/jz1.png">
+<img src="/images/jz1.jpg">
 <img src="/images/jz2.jpg">
 <img src="/images/jz3.jpg">
 </div>
