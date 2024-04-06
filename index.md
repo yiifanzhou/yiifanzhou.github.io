@@ -18,9 +18,9 @@ layout: page
 - **Mar 2024：**被评为[**天津大学未来技术创新创业榜样**]。
 - **Dec 2023：**荣获[**天津大学利安隆励学金**]。
 - **Dec 2023：**被评为[**天津大学三好学生**]。
+- **Dec 2023：**被评为[**天津大学优异生**]。
 - **May 2023：**在[张蕾](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)教授指导下，领导并进行大学生创新创业计划省部级项目[**基于商用Wi-Fi的连续手语语句识别系统**]。
-- **May 2023：**在[王攀峰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1810)教授指导下，领导并完成项目[仿生扑翼飞行机器人](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft)。
-- **May 2023：**在[吕伟杰](http://seea.tju.edu.cn/info/1126/2117.htm)老师指导下，领导并完成项目[智能越障抓取履带机器人](https://github.com/YuntianShi/Intelligent-Handling-Crawler-Robot)。
+- **May 2023：**在[吕伟杰](http://seea.tju.edu.cn/info/1126/2117.htm)老师指导下，领导并完成项目[机械臂汽车自动加油装置的研制与开发](https://github.com/YuntianShi/Intelligent-Handling-Crawler-Robot)。
 - **Dec 2022：**被评为[**天津大学三好学生**]。
-- **Jun 2022：**在[康荣杰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1852)教授指导下，领导并完成项目[智能循迹投放物流车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)。
+- **Jun 2022：**在[康荣杰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1852)教授指导下，领导并完成项目[智能派送车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)。
 
