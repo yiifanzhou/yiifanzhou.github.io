@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# 项目经历
+## 项目经历
 <br>
 #### [智能派送车](https://github.com/yiifanzhou/Intelligent-Tracking-Delivery-Car)
 
