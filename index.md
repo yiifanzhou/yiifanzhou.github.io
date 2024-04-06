@@ -3,7 +3,7 @@ layout: page
 ---
 
 ## 个人介绍
-我是**周艺梵**——天津大学未来技术学院的一名大三本科生，专业是**计算机科学与技术**。本科期间，我跟随天津大学智能与计算学部[佟鑫宇](https://cic.tju.edu.cn/faculty/tongxinyu/index.html)教授与[张蕾](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)教授进行科研学习工作，倍感荣幸！这是我的[个人简历](https://yuntianshi.github.io/file/Resume-YuntianShi.pdf)。
+我是**周艺梵**——天津大学未来技术学院的一名大三本科生，专业是**计算机科学与技术**。本科期间，我跟随天津大学智能与计算学部[佟鑫宇](https://cic.tju.edu.cn/faculty/tongxinyu/index.html)教授与[张蕾](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)教授进行科研学习工作，倍感荣幸！这是我的[个人简历](https://yiifanzhou.github.io/file/YifanZhou.pdf)。
 
 ## 现状
 
