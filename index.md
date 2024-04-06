@@ -23,4 +23,3 @@ layout: page
 - **May 2023：**在[吕伟杰](http://seea.tju.edu.cn/info/1126/2117.htm)老师指导下，领导并完成项目[机械臂汽车自动加油装置的研制与开发](https://github.com/YuntianShi/Intelligent-Handling-Crawler-Robot)。
 - **Dec 2022：**被评为[**天津大学三好学生**]。
 - **Jun 2022：**在[康荣杰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1852)教授指导下，领导并完成项目[智能派送车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)。
-
