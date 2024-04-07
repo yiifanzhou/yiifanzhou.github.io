@@ -18,10 +18,12 @@ title: Hobbies
 #### 记者
 
 <div class="half">
-<img src="/images/jz1.jpg"> | <img src="/images/jz2.jpg">
+<img src="/images/jz1.jpg">
+<img src="/images/jz2.jpg">
 </div>
 <div class="half">
-<img src="/images/jz3.jpg"> | <img src="/images/jz4.png">
+<img src="/images/jz3.jpg">
+<img src="/images/jz4.png">
 </div>
 <br>参与社会新闻热点研究，在学校新闻网上发表多篇校园新闻，诸如《智为遇见你，津天在一起：天津大学机械工程学院迎新晚会圆满举行》、《“心之所向”：北洋合唱团纪念“一二·九”原创新作品音乐会圆满举行》、《津彩纷呈 共赴嘉年：天津大学社团嘉年华圆满举行》、《温情点亮凛冬 爱心传递人间：北洋园“暖冬义卖”顺利开展》……
 <br>
