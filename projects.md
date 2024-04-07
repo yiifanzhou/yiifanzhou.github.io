@@ -7,7 +7,7 @@ title: Projects
 ## 项目经历
 <br>
 
-- [面向Wi-Fi低采样的人类行为感知与定位系统](https://yiifanzhou.github.io/mypaper/Wi-Fi-Tracking-System-with-Low-rates.pdf)
+- 面向Wi-Fi低采样的人类行为感知与定位系统
 
 <center>
 <img src="/images/procedure.jpg">
